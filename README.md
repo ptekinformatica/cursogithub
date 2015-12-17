@@ -15,3 +15,14 @@
 // Após modifica-lo de seu primeiro commit - git commit -m 'Primeiro Commit'
 
 // Para enviar para o servidor remoto - git push origin master
+
+
+// Comandos Utéis 
+// Mostra alterações dos arquivos
+// git log 
+// em uma linha
+// git log --pretty=oneline
+// REMOVER
+// $ git rm README.md
+// MOVER
+// $ git mv foo.R
